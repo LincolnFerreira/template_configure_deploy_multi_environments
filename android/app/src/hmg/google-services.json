@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780405366213",
+    "project_id": "template-multi-environmentshmg",
+    "storage_bucket": "template-multi-environmentshmg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780405366213:android:80239502fe5b47a9ca3fac",
+        "android_client_info": {
+          "package_name": "com.templateconfig.hmg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mCpuhF4j8h-w6EMeUdEGUAOTkTdMaDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

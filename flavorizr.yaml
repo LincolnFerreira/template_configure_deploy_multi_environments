@@ -1,0 +1,24 @@
+flavors:
+  prod:
+    app:
+      name: "prod App"
+    android:
+      applicationId: "com.templateconfig.prod"
+      firebase:
+        config: ".firebase/prod/google-services.json"
+    ios:
+      bundleId: "com.templateconfig.prod"
+      firebase:
+        config: ".firebase/prod/GoogleService-Info.plist"
+  
+  hmg:
+    app:
+      name: "hmg App"
+    android:
+      applicationId: "com.templateconfig.hmg"
+      firebase:
+        config: ".firebase/hmg/google-services.json"
+    ios:
+      bundleId: "com.templateconfig.hmg"
+      firebase:
+        config: ".firebase/hmg/GoogleService-Info.plist"
